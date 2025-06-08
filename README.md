@@ -1,15 +1,13 @@
 # Snapp_tailwind - [Demo Project](https://aliheydarii.github.io/Snapp_tailwind/)
 
-![viewfinal](https://github.com/user-attachments/assets/bcb86f61-6ce9-4237-8247-9716e7ddc875)
-![viewfinal](https://github.com/user-attachments/assets/77e38d37-8a04-4437-87f9-a9c1cb177282)
-![viewfinal](https://github.com/user-attachments/assets/3e243124-71a3-4d22-acde-7a4a2f2e58eb)
-![viewfinal](https://github.com/user-attachments/assets/6782770d-dc22-427f-9787-6dc706b30d34)
-![viewfinal](https://github.com/user-attachments/assets/25e4f6e9-33f7-438b-bde8-ee240c9f470a)
-![viewfinal](https://github.com/user-attachments/assets/1d366c54-2db0-458f-a5cd-060ee864d690)
-![viewfinal](https://github.com/user-attachments/assets/323dafc9-1aa9-43f4-9449-b377d71ba44b)
-
-
-
+![viewfinal](https://github.com/user-attachments/assets/eaa274d4-98bd-4add-9251-188b1465222d)
+![viewfinal](https://github.com/user-attachments/assets/7014c135-7622-44a7-9b84-0d007568f837)
+![viewfinal](https://github.com/user-attachments/assets/7ea4fedd-9c3a-4b4a-8f56-3f4907910c0b)
+![viewfinal](https://github.com/user-attachments/assets/710d0db7-5253-429c-8f52-4b0bbd6a0f19)
+![viewfinal](https://github.com/user-attachments/assets/689ade6c-333a-481e-a1d5-95de00ac2d66)
+![viewfinal](https://github.com/user-attachments/assets/af2e0037-e1eb-49e5-a8f1-51954c43caa9)
+![viewfinal](https://github.com/user-attachments/assets/de631a9b-757e-4169-9e30-3c4a96203007)
+![viewfinal](https://github.com/user-attachments/assets/2033fd2a-51b7-444d-8e5e-8712aafdcf22)
 
 - [Demo Project](https://aliheydarii.github.io/Snapp_tailwind/)
 
